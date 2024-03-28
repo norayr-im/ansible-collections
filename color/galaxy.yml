@@ -1,7 +1,8 @@
-namespace: local
+namespace: "test_local_namespace"
 name: colors
 version: 1.0.0
 readme: README.md
 authors:
 - your name <example@domain.com>
-
+description: "Test collection"
+repository: "https://github.com/norayr-im/ansible-collections"
